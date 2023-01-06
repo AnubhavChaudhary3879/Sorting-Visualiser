@@ -1,2 +1,2 @@
 # Sorting-Visualiser
-This is just for practicing.
+This module is used for rearranging names
